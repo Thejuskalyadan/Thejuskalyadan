@@ -82,15 +82,11 @@ Presented to IUCAA faculty and invited for live research demonstration.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thejuskalyadan&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Thejuskalyadan&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thejuskalyadan&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thejuskalyadan&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Thejuskalyadan&label=Profile%20Views&color=12"/>
 </p>
+
