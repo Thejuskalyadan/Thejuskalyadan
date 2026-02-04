@@ -47,6 +47,8 @@ MongoDB, MySQL, PostgreSQL, Git, Arduino
 
 ## GitHub Statistics
 
+## GitHub Statistics
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Thejuskalyadan&show_icons=true&theme=github_dark&hide_border=true"/>
 </p>
