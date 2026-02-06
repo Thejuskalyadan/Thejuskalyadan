@@ -2,10 +2,10 @@
   <img src="https://komarev.com/ghpvc/?username=Thejuskalyadan&label=Total%20Visitors%20:%20&color=orange&style=flat" alt="Thejus K"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img width="1080" height="415" alt="Banner"
        src="https://github.com/user-attachments/assets/19e6c779-8e21-4de7-bea5-ad1d7c7786db" />
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thejus-kalyadan" target="_blank">
