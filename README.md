@@ -53,7 +53,7 @@
   <br/>
   <img width="15"
        src="https://github.com/user-attachments/assets/ab26ba14-53c9-4a16-92d3-b50da069ff8c"/>
-  <em><b>Frontend Developer at IOTRICS LLP</b></em>
+  <em><b> Full-stack developer at IOTRICS LLP</b></em>
 </p>
 
 ---
@@ -79,7 +79,7 @@
   <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
