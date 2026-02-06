@@ -2,10 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=Thejuskalyadan&label=Total%20Visitors%20:%20&color=orange&style=flat" alt="Thejus K"/>
 </p>
 
-<!-- <p align="center">
-  <img width="1080" height="415" alt="Banner"
-       src="https://github.com/user-attachments/assets/19e6c779-8e21-4de7-bea5-ad1d7c7786db" />
-</p> -->
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thejus-kalyadan" target="_blank">
@@ -18,16 +15,13 @@
 
 ---
 
-<h2 align="center">
+<!-- <h2 align="center">
   <img width="25"
        src="https://github.com/user-attachments/assets/f991a2ef-c2d2-48ba-ac03-28d81deeb1fe"/>
   <em> About Me </em>
 </h2>
 
-<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif"
-     width="250"
-     align="right"
-     style="margin-left:20px;" />
+
 
 <p>
   Hello There! <em><b>I'm Thejus K</b></em>, a Computer Science graduate passionate about
@@ -36,7 +30,21 @@
   I believe in learning by building and continuously improving through practice.
 </p>
 
-<br/>
+<br/> -->
+<h2 align="center">
+  <img width="25"
+       src="https://github.com/user-attachments/assets/f991a2ef-c2d2-48ba-ac03-28d81deeb1fe"/>
+  <em> About Me </em>
+</h2>
+
+<p>
+  Hello There! <em><b>I'm Thejus K</b></em>, a Computer Science graduate passionate about
+  web development and problem-solving. I enjoy building real-world applications
+  using <b>JavaScript, React, Node.js, MongoDB</b>, and modern UI frameworks.
+  I believe in learning by building and continuously improving through practice.
+</p>
+
+<br/> -->
 
 <p align="center">
   <img width="15"
